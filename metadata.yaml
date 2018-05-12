@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38691'
     url: http://www.gutenberg.org/2009/agents/38691
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37186#An-Introduction-to-the-History-of-Japan
 gutenberg_issued: '2011-08-24'
 gutenberg_type: Text
 identifiers:
